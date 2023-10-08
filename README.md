@@ -22,7 +22,7 @@ Usage: sphmoments [options] infile.fits [outfile.fits]
 
 Options:  --moments=0,1,9   [which moments to take, default=0,1,2,8,9]
           --kernel=0        [which smoothing kernel to use: 0=cubic spline 2=quartic 3=quintic]
-          --hfac=5.         [ratio of smoothing length to channel spacing in spectral dimension]
+          --hfac=3.         [ratio of smoothing length to channel spacing in spectral dimension]
           --sample=10       [factor by which to oversample line profiles, not very important]
 
 ```
