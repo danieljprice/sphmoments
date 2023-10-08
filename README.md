@@ -15,9 +15,9 @@ sphmoments image.fits [out.fits]
 ## Advanced usage
 Type sphmoments with no arguments to see the command line options:
 ```
-sphmomentssph_moments: a SPLASH imaging utility (c) 2023 Daniel Price
+sphmoments: a SPLASH imaging utility (c) 2023 Daniel Price
 
-Usage: sph_moments [options] infile.fits [outfile.fits]
+Usage: sphmoments [options] infile.fits [outfile.fits]
 
 Options:  --moments=0,1,9   [which moments to take, default=0,1,2,8,9]
           --kernel=0        [which smoothing kernel to use: 0=cubic spline 2=quartic 3=quintic]
