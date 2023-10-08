@@ -14,8 +14,7 @@ brew install sphmoments
 sphmoments image.fits [out.fits]
 ```
 
-## Advanced usage
-Type sphmoments with no arguments to see the command line options:
+For advanced usage, type sphmoments with no arguments to see the command line options:
 ```
 sphmoments: a SPLASH imaging utility (c) 2023 Daniel Price
 
