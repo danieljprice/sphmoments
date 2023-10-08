@@ -1,5 +1,5 @@
-# denoise
-Command-line tool to compute smooth 2D moment maps from astronomical 3D data cubes using kernel interpolation
+# sphmoments
+Command-line tool to compute smooth 2D moment maps from astronomical 3D data cubes using SPH kernel interpolation
 
 ## Install
 ```
