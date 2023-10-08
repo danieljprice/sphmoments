@@ -1,6 +1,8 @@
 # sphmoments
 Command-line tool to compute smooth 2D moment maps from astronomical 3D data cubes using SPH kernel interpolation
 
+![build](https://github.com/danieljprice/sphmoments/workflows/build/badge.svg)
+
 ## Install
 ```
 brew tap danieljprice/all
@@ -25,9 +27,6 @@ Options:  --moments=0,1,9   [which moments to take, default=0,1,2,8,9]
           --sample=10       [factor by which to oversample line profiles, not very important]
 
 ```
-
-## Status
-![build](https://github.com/danieljprice/sphmoments/workflows/build/badge.svg)
 
 ## Installing from source
 To compile sphmoments from source you will need a Fortran compiler (gfortran)
