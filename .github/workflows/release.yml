@@ -76,7 +76,7 @@ jobs:
 
     - name: Extract Release Notes
       run: |
-          ./scripts/get_release_notes.pl > release-notes.md
+           ./splash/scripts/get_release_notes.pl splash/src/sph_moments.f90 > release-notes.md
 
     - name: Create Release
       id: create_release
