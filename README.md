@@ -43,6 +43,8 @@ make FITS_DIR=$HOME/lib
 ```
 
 ## Examples
+Peak intensity map of HD142527 (Garg et al. 2023), showing regular moment 8 (left) compared to SPH moment 8 (right)
+![image](https://github.com/danieljprice/sphmoments/assets/12252103/88f779d5-825d-41f8-ad1b-c9765ee1696f)
 
 ## About this repo
 sphmoments is officially part of splash (https://github.com/danieljprice/splash). This repository is a standalone version of sphmoments that is updated with each stable release of splash that affects the relevant source files. Pull requests to this repo will also be incorporated back into the main splash source code.
